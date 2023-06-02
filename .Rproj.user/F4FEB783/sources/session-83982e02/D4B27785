@@ -1,0 +1,26 @@
+{
+    "id": "D4B27785",
+    "path": "~/Source/merck-2023-datathon/merck-datathon-2023/script.R",
+    "project_path": "script.R",
+    "type": "r_source",
+    "hash": "3029668446",
+    "contents": "",
+    "dirty": false,
+    "created": 1685725170981.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "215,0",
+        "scrollLine": "170"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685732895,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685732895808,
+    "read_only": false,
+    "read_only_alternatives": []
+}

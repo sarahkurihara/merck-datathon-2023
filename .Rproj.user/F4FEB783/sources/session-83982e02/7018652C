@@ -1,0 +1,27 @@
+{
+    "id": "7018652C",
+    "path": "~/Source/merck-2023-datathon/merck-datathon-2023/R/logisticRegression.R",
+    "project_path": "R/logisticRegression.R",
+    "type": "r_source",
+    "hash": "702519091",
+    "contents": "",
+    "dirty": false,
+    "created": 1685732590576.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685732625,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685732625962,
+    "read_only": false,
+    "read_only_alternatives": []
+}
